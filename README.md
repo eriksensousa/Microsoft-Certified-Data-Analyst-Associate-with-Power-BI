@@ -1,6 +1,7 @@
 <h1> Microsoft Certified Data Analyst Associate with Power BI </h1>
 
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99) 
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/eriksensousa) 
 
 <img src="/dashboard.png" align="center" width="1040" />
 
