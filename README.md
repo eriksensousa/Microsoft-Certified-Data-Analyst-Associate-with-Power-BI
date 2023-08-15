@@ -1,4 +1,7 @@
-# Microsoft-Certified-Data-Analyst-Associate-with-Power-BI 
+<h1> Microsoft Certified Data Analyst Associate with Power BI </h1> 
+
+<img src="/dashboard.png" align="center" width="1040" />
+
 ## Analyzing and Visualizing Data with Microsoft Power BI
 The BI industry is booming, and every day, more hiring managers and recruiters are looking for professionals who not only know their way around BI tools, but have certifications to back their claims.
 
