@@ -1,4 +1,4 @@
-<h1> Microsoft Certified Data Analyst Associate with Power BI </h1> 
+<h1> Microsoft Certified Data Analyst Associate with Power BI </h1>
 
 <img src="/dashboard.png" align="center" width="1040" />
 
@@ -19,7 +19,7 @@ And that's where this course comes into play.
 So, get ready for your Power BI certification and master everything you need to know to pass the DA-100 exam. Learn to prepare, model, visualize, and analyze data; deploy and maintain deliverables in Power BI. Plus, DAX, advanced data visualization techniques, and more.
 
 ## Who this course is for:
-Those Looking to Build Their Power BI Knowledge
+Those Looking to Build Their Power BI Knowledge <img src="/Badge.png" align="right" width="120" />
 
 
 Data Analysts
@@ -31,7 +31,7 @@ Business Analysts
 Students Looking to Break into the Analytics Industry
 
 
-## Course content
+## Course content 
 ### 8 sections • 142 lectures 
 
 Introduction
